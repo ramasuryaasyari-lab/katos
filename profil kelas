@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Siswa - Atari Praja Alkafi</title>
+</head>
+<body>
+
+    <h3 id="atas">DIREKTORI PROFIL KELAS X RPL 1</h3>
+    
+    <table border="1" cellpadding="10" width="100%">
+        <tr>
+            <th>Wali Kelas</th>
+            <td>Moh. Shobirin., S.Kom, Gr</td>
+        </tr>
+        <tr>
+            <th>Ketua Kelas</th>
+            <td>muhammad bilal akbar</td>
+        </tr>
+        <tr>
+            <th>Slogan Kelas</th>
+            <td>Code Your Dream, Build Your Future</td>
+        </tr>
+    </table>
+
+    <h3>Daftar 5 Anggota Kelas</h3>
+    <ol>
+        <li><a href="#atari1">jovi andra fharesa (#01)</a></li>
+        <li><a href="#atari2">AKHMAD AZRIL ADITYA (#02)</a></li>
+        <li><a href="#atari2">Attar Ibrar A. (#03)</a></li>
+        <li><a href="#atari2">rama surya asyari (#04)</a></li>
+        <li><a href="#atari2">M.faiq setyobudi (#05)</a></li>
+    </ol>
+
+    <hr>
+
+    <!-- PROFIL SISWA #01 -->
+    <h3 id="atari1">PROFIL SISWA #01 - jovi andra fharesa</h3>
+    <table border="1" cellpadding="10" width="100%">
+        <tr>
+            <td align="center" width="40%">
+                <img src="https://files.catbox.moe/no75e3.jpeg" alt="Foto Atari 1" width="145" height="185">
+                <h4>Suara Perkenalan</h4>
+                <audio controls>
+                    <source src="https://files.catbox.moe/4e4e63.ogg" type="audio/ogg">
+                    Browser Anda tidak mendukung elemen audio.
+                </audio>
+            </td>
+            <td>
+                <ul>
+                    <li>NISN: 0115727400</li>
+                    <li>Tempat, Tanggal Lahir: Sidoarjo, 12 April 2011</li>
+                    <li>Cita-cita: Sukses</li>
+                    <li>Hobi: Olahraga</li>
+                    <li>Motto: "Kejujuran adalah kesederhanaan yang paling mewah."</li>
+                </ul>
+                <details>
+                    <summary>Lihat Riwayat dan Keahlian</summary>
+                    <p>Riwayat: Siswa kelas X PLC.</p>
+                    <p>Keahlian: Mengedit dan bidang teknologi.</p>
+                </details>
+            </td>
+        </tr>
+    </table>
+
+    <p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+    </p>
+
+    <hr>
+
+    <!-- PROFIL SISWA #02 -->
+    <h3 id="atari2">PROFIL SISWA #02 - AKHMAD AZRIL ADITYA</h3>
+    <table border="1" cellpadding="10" width="100%">
+        <tr>
+            <td align="center" width="40%">
+                <img src="https://files.catbox.moe/ab2eqm.jpeg" alt="Foto Atari 2" width="145" height="185">
+                <h4>Suara Perkenalan</h4>
+                <audio controls>
+                    <source src="https://files.catbox.moe/856obp.mp4" type="audio/mpeg">
+                    Browser Anda tidak mendukung elemen audio.
+                </audio>
+            </td>
+            <td>
+                <ul>
+                    <li>NISN : 0112175167</li>
+                    <li>Tempat tgl lahir : Pasuruan, 16 April 2011</li>
+                    <li>Cita Cita : Pembisnis</li>
+                    <li>Hobi : Sepak bola</li>
+                </ul>
+                <details>
+                    <summary>Lihat Riwayat dan Keahlian</summary>
+                    <p>Riwayat: Siswa kelas X PLC.</p>
+                    <p>Keahlian: Mengedit dan bidang teknologi.</p>
+                </details>
+            </td>
+        </tr>
+    </table>
+
+    <p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+    </p>
+     
+     <hr>
+
+    <!-- PROFIL SISWA #03 -->
+    <h3 id="atari2">PROFIL SISWA #03 - Attar Ibrar A.</h3>
+    <table border="1" cellpadding="10" width="100%">
+        <tr>
+            <td align="center" width="40%">
+                <img src="https://files.catbox.moe/1li31v.jpeg" alt="Foto Atari 2" width="145" height="185">
+                <h4>Suara Perkenalan</h4>
+                <audio controls>
+                    <source src="https://files.catbox.moe/q3fyb1.ogg" type="audio/mpeg">
+                    Browser Anda tidak mendukung elemen audio.
+                </audio>
+            </td>
+            <td>
+                <ul>
+                    <li>NISN : 0119966916</li>
+                    <li>Tempat tgl lahir : Pasuruan, 03 Mei 2011</li>
+                    <li>Cita Cita : Fakultas kedokteran bidang poli anak</li>
+                    <li>Hobi : Mengedit Foto atau video</li>
+                    <li>motto : Stay enthusiastic in doing goodness and never give up easily.</li>
+                </ul>
+                <details>
+                    <summary>Lihat Riwayat dan Keahlian</summary>
+                    <p>Riwayat: Siswa kelas X PLC.</p>
+                    <p>Keahlian: Mengedit dan bidang teknologi.</p>
+                </details>
+            </td>
+        </tr>
+    </table>
+
+    <p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+    </p>
+    
+    <hr>
+
+    <!-- PROFIL SISWA #04 -->
+    <h3 id="atari2">PROFIL SISWA #04- rama surya asyari</h3>
+    <table border="1" cellpadding="10" width="100%">
+        <tr>
+            <td align="center" width="40%">
+                <img src="https://files.catbox.moe/do06mt.jpeg" alt="Foto Atari 2" width="145" height="185">
+                <h4>Suara Perkenalan</h4>
+                <audio controls>
+                    <source src="https://files.catbox.moe/ql7e1c.ogg" type="audio/mpeg">
+                    Browser Anda tidak mendukung elemen audio.
+                </audio>
+            </td>
+            <td>
+                <ul>
+                    <li>NISN :  0119542774</li>
+                    <li>Tempat tgl lahir : Surabaya, 29 Agustus 2011</li>
+                    <li>Cita Cita : Ingin menjadi boss besar</li>
+                    <li>Hobi : Gaming dan mancing</li>
+                    <li>motto : Jangan pernah menyerah pada mimpi hanya karena waktu yang dibutuhkan untuk mencapainya. Bagaimanapun waktu akan berlalu.</li>
+                </ul>
+                <details>
+                    <summary>Lihat Riwayat dan Keahlian</summary>
+                    <p>Riwayat: Siswa kelas X PLC.</p>
+                    <p>Keahlian: Mengedit dan bidang teknologi.</p>
+                </details>
+            </td>
+        </tr>
+    </table>
+
+    <p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+    </p>
+    
+     <hr>
+
+    <!-- PROFIL SISWA #05 -->
+    <h3 id="atari2">PROFIL SISWA #05- M.faiq setyobudi</h3>
+    <table border="1" cellpadding="10" width="100%">
+        <tr>
+            <td align="center" width="40%">
+                <img src="https://i.supaimg.com/ecdf5733-70ab-4b84-a405-66224bda2bec/60163da6-8d08-4e06-816e-460bd110665a.jpg" alt="Foto Atari 2" width="145" height="185">
+                <h4>Suara Perkenalan</h4>
+                <audio controls>
+                    <source src="https://files.catbox.moe/sgnhgz.ogg" type="audio/mpeg">
+                    Browser Anda tidak mendukung elemen audio.
+                </audio>
+            </td>
+            <td>
+                <ul>
+                    <li>NISN :  0119585774</li>
+                    <li>Tempat tgl lahir : Sidoarjo, 6 Desember 2010</li>
+                    <li>Cita Cita : Pilot</li>
+                    <li>Hobi : Bermain sepak bola</li>
+                    <li>motto : Be better, not bitter.</li>
+                </ul>
+                <details>
+                    <summary>Lihat Riwayat dan Keahlian</summary>
+                    <p>Riwayat: Siswa kelas X PLC.</p>
+                    <p>Keahlian: Mengedit dan bidang teknologi.</p>
+                </details>
+            </td>
+        </tr>
+    </table>
+
+    <p align="right">
+        <a href="#atas">Kembali ke Atas</a>
+    </p>
+    
+</body>
+</html>
